@@ -6,4 +6,4 @@ Hi! 👋 I'm Mateo Wang
 - 🌱 currently keeping up to date with the latest frontend buzz & learning better scrum workflow
 - 📫 [mateowang@ucsb.edu](mailto:mateowang@ucsb.edu)
 - ✨ Pronouns: he/him/his
-- 👨‍🍳 Fun fact: I love to cook!!! My dream is to open a restaurant after I retire :)
+- 👨‍🍳 Fun fact: I love to cook!!! Check out some of my makings on insta at [@mateowangdev](https://www.instagram.com/mateowangdev) (w/ recipe + difficulty rating + tastiness rating)!
